@@ -1,0 +1,12 @@
+
+a:hover {
+    color: red;
+}
+
+.img-projetos {
+    transition: transform .2s;
+}
+
+.img-projetos:hover {
+    transform: scale(1.2);
+}
